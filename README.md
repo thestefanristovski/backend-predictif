@@ -1,3 +1,3 @@
 # predictif-back
 
-Back-end files for fortune telling website
+Back-end code for fortune telling website
